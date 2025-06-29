@@ -1,0 +1,18 @@
+Did your team create an SRS document before starting development?
+
+Who was involved in writing the SRS — developers, clients, or both?
+
+
+How did you gather the requirements — meetings, surveys, or interviews
+
+
+What were the main goals or features listed in the SRS?
+
+Were there any changes to the requirements after development started
+
+How detailed was the SRS – did it include both functional and non-functional requirements
+
+
+How did you gather the requirements — meetings, surveys, or interviews
+
+Did the client approve the SRS before you started development
